@@ -15,6 +15,7 @@ const Experience = () => {
                         launching websites, providing guidance on website design and best practices. Communicated technical information clearly and concisely to 
                         technologically inexperienced individuals and to diagnose and resolve issues efficiently and effectively.
                     </p>
+                    <p class="fst-italic">HTML, CSS & SCSS, Bootstrap, Google Analytics, Tag Manager, & Search Console</p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">
                     <h3>Web Developer</h3>
@@ -22,8 +23,9 @@ const Experience = () => {
                     <p class="mt-2">
                         Specializing in designing and developing visually appealing and user-friendly websites with a focus on functionality, efficiency, and best SEO practices. Collaborated
                         with different departments to ensure the timely completion of projects and client satisfaction. Managed multiple projects simultaneously, prioritized tasks effectively, 
-                        and meeting project deadlines. 
+                        and met project deadlines. 
                     </p>
+                    <p class="fst-italic">HTML, CSS & SCSS, Bootstrap, Javscript, PHP, MySQL</p>
                 </div>
             </div>
            

@@ -25,6 +25,7 @@ const About = () => {
                                 <p>JavaScript</p>
                                 <p>JQuery</p>
                                 <p>React</p>
+                                <p>Bootstrap</p>
                             </div>
                             <div class="d-flex"> 
                                 <p>Redux</p>
