@@ -1,9 +1,13 @@
 import React from 'react';
 import Hero from './Hero';
+import About from './About';
 
 const Portfolio = () => {
     return (
-        <Hero />
+        <div>
+            <Hero />
+            <About />
+        </div>
     )
 }
 

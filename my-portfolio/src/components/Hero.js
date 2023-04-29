@@ -2,9 +2,8 @@ import React from 'react';
 
 const Hero = () => {
     return (
-        <div>
-            <div class="row">
-                <div class="col-lg-8 col-md-8 col-12">
+            <div class="row m-3 ">
+                <div class="col-lg-6 col-md-6 col-12">
                     <p>Hello, I'm Holly Purvis a</p>
                     <h1>Front End Web Developer</h1>
                     <p>
@@ -14,13 +13,12 @@ const Hero = () => {
                         and maintainable code while adhering to industry standards and best practices. I am highly motivated, adaptable, 
                         and always seeking opportunities to enhance my skills and knowledge.
                     </p>
-                    <p>Section </p>
+                    <p>*Links to download resume and github</p>
                 </div>
-                <div class="col-lg-4 col-md-4 col-12">
+                <div class="col-lg-6 col-md-6 col-12">
                     photo
                 </div>
             </div>
-        </div>
     )
 }
 
