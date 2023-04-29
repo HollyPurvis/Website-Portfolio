@@ -1,7 +1,6 @@
 import React from "react";
 
 const About = () => {
-
     return (
             <div class="row m-3 justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-6 col-12">
