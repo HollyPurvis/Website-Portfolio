@@ -1,0 +1,34 @@
+.hero {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: 1s ease-out 0s 1 slideInFromLeft;
+}
+
+.hero  h1 {
+    letter-spacing: -1px;
+    font-size: 3.25rem;
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+.intro {
+    font-size: 1.5rem;
+}
+
+.img-shadow {
+  -moz-box-shadow: 0px 0px 30px $text-blue;
+    -webkit-box-shadow: 0px 0px 30px $text-blue;
+    box-shadow: 0px 0px 30px $text-blue;
+}
+
+@keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }

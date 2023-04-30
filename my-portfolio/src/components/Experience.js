@@ -2,7 +2,7 @@ import React from 'react';
 
 const Experience = () => {
     return (
-        <div class="m-3 justify-content-center align-items-center">
+        <div class="m-3 justify-content-center align-items-center global-padding">
             <h1 class="text-center">Experience</h1>
             <h2>Footbridge Media</h2>
             <br></br>
