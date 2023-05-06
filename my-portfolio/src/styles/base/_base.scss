@@ -1,7 +1,23 @@
 body {
-    background-color: $bg-primary;
-    font-family: 'Noto Sans', sans-serif;
+    //background-color: $bg-primary;
+    font-family: 'Oswald', sans-serif;
     color: $off-white;
+    background: linear-gradient(-45deg, #0742a8, #020812, #1b0e35, #72649b);
+	background-size: 400% 400%;
+	animation: gradient 40s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 
 .mr-3 {
