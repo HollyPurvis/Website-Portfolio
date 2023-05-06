@@ -5,7 +5,6 @@ import Experience from './Experience';
 import Nav from './Nav'
 import Projects from './Projects';
 
-
 const Portfolio = () => {
     return (
         <div>

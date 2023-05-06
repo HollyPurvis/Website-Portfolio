@@ -4,6 +4,7 @@ import Typewriter from 'typewriter-effect';
 
 const Hero = () => {
     return (
+        <div>
             <div className="row m-3 global-padding hero">
                 <div className="col-lg-6 col-md-6 col-12 mx-auto">
                 <h1>
@@ -34,6 +35,7 @@ const Hero = () => {
                     </div>
                 </div>
             </div>
+        </div>
     )
 }
 
