@@ -1,0 +1,21 @@
+.card {
+    background-color: #302F4D;
+    color: #DFE0E2;
+    height: 100%;
+    padding: 2rem;
+}
+
+.card-title {
+    padding: 1rem;
+}
+
+.card-deck {
+    align-items: stretch center;
+}
+
+.skills {
+    columns: 4;
+    -webkit-columns: 4;
+    -moz-columns: 4;
+    text-align: start;
+}
