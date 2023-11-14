@@ -2,8 +2,8 @@ import React from 'react';
 import Hero from './Hero';
 import About from './About';
 import Experience from './Experience';
-import Nav from './Nav'
-import Projects from './Projects';
+import Nav from './Nav';
+import Contact from './Contact';
 
 const Portfolio = () => {
 
@@ -13,7 +13,7 @@ const Portfolio = () => {
             <Hero />
             <About />
             <Experience />
-            <Projects />
+            <Contact />
         </div>
     )
 }

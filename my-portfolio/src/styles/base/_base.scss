@@ -2,10 +2,10 @@ body {
     //background-color: $bg-primary;
     font-family: 'Roboto Mono', sans-serif;
     color: $off-white;
-    background: linear-gradient(-45deg, #020812, #000307, #1b0e35, #72649b);
+    background: linear-gradient(-45deg, #020812, #000307, #1b0e35, rgb(123, 174, 240));
 	background-size: 400% 400%;
 	animation: gradient 35s ease infinite;
-	height: 100vh;
+	height: 100%;
 }
 
 @keyframes gradient {
@@ -31,6 +31,10 @@ body {
 
 .txt-blue {
     color: $text-blue;
+}
+
+.list-style-position-inside {
+	list-style-position: inside;
 }
 
 .box-shadow {

@@ -10,22 +10,22 @@ const Hero = () => {
                 <h1>
                     <Typewriter
                     options={{
-                    strings: ['Hello, I\'m Holly Purvis', 'Web Developer'],
+                    strings: ['Hello, I\'m Holly Purvis'],
                     autoStart: true,
                     loop: true,
                     }}
                 />
                 </h1>
+                <div className="m-3">
+                
                     <p>
                         A web developer with a strong background in web support and maintenance, 
-                        I am passionate about creating dynamic and innovative web solutions that enhance user experiences. 
-                        With expertise in web development and a keen eye for detail, I am committed to producing clean, efficient, 
-                        and maintainable code while adhering to industry standards and best practices. I am highly motivated, adaptable, 
+                        who is passionate about creating innovative websites and learning about cloud computing. I'm highly motivated, adaptable, 
                         and always seeking opportunities to enhance my skills and knowledge.
                     </p>
                     <div className="icons">
-                        <i class="fa-brands fa-github"></i>
-                        <i class="fa-regular fa-file"></i>
+                        <a href="" className="text-white"><i className="fa-regular fa-file"></i></a>
+                    </div>
                     </div>
                 </div>
             </div>
