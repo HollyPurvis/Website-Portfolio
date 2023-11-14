@@ -2,9 +2,9 @@ body {
     //background-color: $bg-primary;
     font-family: 'Roboto Mono', sans-serif;
     color: $off-white;
-    background: linear-gradient(-45deg, #0742a8, #020812, #1b0e35, #72649b);
+    background: linear-gradient(-45deg, #020812, #000307, #1b0e35, #72649b);
 	background-size: 400% 400%;
-	animation: gradient 40s ease infinite;
+	animation: gradient 35s ease infinite;
 	height: 100vh;
 }
 
@@ -38,3 +38,4 @@ body {
     -webkit-box-shadow: 0 0 3px #ccc;
     box-shadow: 0 0 3px #ccc;
 }
+

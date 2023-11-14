@@ -17,7 +17,7 @@ const Hero = () => {
                 />
                 </h1>
                     <p>
-                        As a web developer with a strong background in web support and maintenance, 
+                        A web developer with a strong background in web support and maintenance, 
                         I am passionate about creating dynamic and innovative web solutions that enhance user experiences. 
                         With expertise in web development and a keen eye for detail, I am committed to producing clean, efficient, 
                         and maintainable code while adhering to industry standards and best practices. I am highly motivated, adaptable, 
