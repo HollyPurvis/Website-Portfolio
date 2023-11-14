@@ -1,0 +1,27 @@
+.card {
+    background-color: #302F4D;
+    color: #DFE0E2;
+    height: 100%;
+    padding: 2rem;
+}
+
+.card-title {
+    padding: 1rem;
+}
+
+.card-deck {
+    align-items: stretch center;
+}
+
+.skills {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    text-align: start;
+    @media screen and (max-width: 480px) {
+        columns: 1;
+        -webkit-columns: 1;
+        -moz-columns: 1;
+      }
+}
+
