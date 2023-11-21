@@ -4,7 +4,7 @@ const Experience = () => {
     return (
         <div id="Experience" className="m-3 justify-content-center align-items-center global-padding">
         <div className="text-center">
-        <h1 className="">Experience</h1>
+        <h2 className="">Experience</h2>
         <hr></hr>
         <h2 className="p-3">Footbridge Media</h2>
         </div>
@@ -17,7 +17,7 @@ const Experience = () => {
                         with different departments to ensure the timely completion of projects and client satisfaction. Managed multiple projects simultaneously, prioritized tasks effectively, 
                         and met project deadlines. Assisted web support team with technical issues that may include PHP and JavaScript code.
                     </p>
-                    <p className="fst-italic">HTML, CSS & SCSS, JavaScript, PHP, MySQL</p>
+                    <p className="fst-italic">HTML, CSS & SCSS, JavaScript, PHP, MySQL, Bootstrap</p>
                 </div>
                 <div className="col-12 p-3 m-3">
                     <h3>Web Support</h3>
@@ -25,7 +25,7 @@ const Experience = () => {
                     <p className="mt-2">
                         Provided technical assistance to over 200+ clients.  Ensured that all SSL/TLS certifications were renewed and up to date. Launched new webistes by updating client DNS records, created client accounts on the company's website hosting servers, and uploaded website files to hosting server. Installed Google Search Console and Google Analytics to track website data.
                     </p>
-                    <p className="fst-italic">HTML, CSS & SCSS, Bootstrap, Google Tag Manager</p>
+                    <p className="fst-italic">HTML, CSS & SCSS, Bootstrap, Google Tag Manager, CPanel</p>
                 </div>
                 
             </div>

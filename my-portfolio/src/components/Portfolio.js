@@ -4,6 +4,7 @@ import About from './About';
 import Experience from './Experience';
 import Nav from './Nav';
 import Contact from './Contact';
+import Projects from './Projects';
 
 const Portfolio = () => {
 
@@ -11,8 +12,9 @@ const Portfolio = () => {
         <div>
             <Nav />
             <Hero />
-            <About />
             <Experience />
+            <About />
+            <Projects />
             <Contact />
         </div>
     )
