@@ -20,6 +20,11 @@ body {
 	}
 }
 
+a {
+	color: white;
+	text-decoration: none;
+}
+
 .mr-3 {
     margin-right: 3rem;
 }
@@ -43,3 +48,6 @@ body {
     box-shadow: 0 0 3px #ccc;
 }
 
+.external:hover {
+	color: #b8b8ff;
+}
