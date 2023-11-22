@@ -47,7 +47,7 @@ const About = () => {
                         <div className="card-body">
                             <h2 className="card-title">About Me</h2>
                             <p className="card-text px-3">
-                                Hello, I'm Holly Purvis, an experienced Web Developer that uses Agile methodologies in my everyday work to ensure the successful delivery of projects.  In addition to my web development skills I also have experience in web support, search engine optimization, and data analytics. I am passionate about expanding my knowledge and using cloud computing in personal projects.
+                                Hello! I'm Holly, an experienced Web Developer that uses Agile methodologies in my everyday work to ensure the successful delivery of projects.  In addition to my web development skills I also have experience in web support, search engine optimization, and data analytics. I am passionate about expanding my knowledge and using cloud computing in personal projects.
                             </p>
                         </div>
                     </div>

@@ -1,4 +1,5 @@
 import React from 'react';
+import pdf from '../doc/HollyPurvis_Resume2023.pdf'
 
 const Contact = () => {
     return (
@@ -6,8 +7,8 @@ const Contact = () => {
         <div className="text-center m-5 p-3">
         <h2 className="">Contact</h2>
         <hr></hr>
-        <div className="row m-5 p-3">
-        <div className="col-12 col-md-4">
+        <div className="row m-5 p-3 justify-content-center align-items-center">
+        <div className="col-12 col-md-4 ">
             <a href="mailto:holly.m.purvis1@gmail.com">
                 <i className="fa-solid fa-envelope fa-2xl"></i>
                 <h3 className="p-3">Email</h3>
@@ -21,7 +22,7 @@ const Contact = () => {
             </a>   
             </div>
             <div className="col-12 col-md-4">
-            <a href="tel:+1-707-239-4086">
+            <a href={pdf} target="_blank" rel="noreferrer" className="text-white">
                 <i className="fa-regular fa-file fa-2xl"></i>
                 <h3 className="p-3">Resume</h3>
             </a>    
