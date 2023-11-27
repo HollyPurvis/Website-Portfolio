@@ -26,7 +26,7 @@ const Projects = () => {
                 <div className="card-body ">
                     <h2 className="card-title">Travel Checklist</h2>
 
-                    <p><a href="https://github.com/HollyPurvis/Website-Portfolio" className="external" target="_blank" rel="noreferrer">Github</a> | <a href="https://hollypurvis.github.io/travel-checklist/"  className="external" target="_blank" rel="noreferrer">https://hollypurvis.github.io/travel-checklist/</a></p>
+                    <p><a href="https://github.com/HollyPurvis/travel-checklist" className="external" target="_blank" rel="noreferrer">Github</a> | <a href="https://hollypurvis.github.io/travel-checklist/"  className="external" target="_blank" rel="noreferrer">https://hollypurvis.github.io/travel-checklist/</a></p>
 
                     
                     <p>Skills: HTML, CSS, JavaScript, Bootstrap, GitHub, and REST API</p>
