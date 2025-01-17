@@ -1,6 +1,6 @@
 import React from 'react';
 import Typewriter from 'typewriter-effect';
-import pdf from '../doc/HollyPurvis_Resume2023.pdf'
+import pdf from '../doc/HollyPurvis_Resume.pdf'
 
 const Hero = () => {
     return (
@@ -19,11 +19,10 @@ const Hero = () => {
                 <div className="m-3">
                 
                     <p>
-                        Hello! My name is Holly Purvis, a passionate web developer with an interest in cloud technologies and computing. In this space you can find out more information about me
-                        and my skills. This website was developed using React and incorporates AWS services such as AWS S3 and AWS Route 53 for the web hosting infrastructure.
+                        Hello! My name is Holly Purvis, I have 4+ years of web development and IT experience. I recently obtained my Data Science certificate from The University of West Florida and I'm excited to learn more about data analytics and data science. My goal is to continue to take informative data and transform it into easily digestible information via dashboards and data reports.
                     </p>
                     <p>
-                    You may find my resume by clicking the icon below or going to the Contact section.
+                        You may find my resume by clicking the icon below or going to the Contact section.
                     </p>
                     <div className="icons">
                         <a href={pdf} target="_blank" rel="noreferrer" className="text-white"><i className="fa-regular fa-file"></i></a>

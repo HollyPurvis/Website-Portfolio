@@ -21,23 +21,40 @@ const About = () => {
                         </div>
                     </div>
                     <div className="col-12 mx-auto m-2">
+                    <div className="card">
+                        <div className="card-body ">
+                            <h2 className="card-title">Certifications</h2>
+                            <div className="px-3">
+                                <h4 className="card-text "><strong>Data Science</strong></h4>
+                                <h5>The University of West Florida</h5>
+                                <h5 className="card-text">Pensacola, FL</h5>
+                                <p>2025</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>                   
+                    <div className="col-12 mx-auto m-2">
                         <div className="card">
                             <div className="card-body ">
                                 <h2 className="card-title">Skills</h2>
                                 <ul className="skills list-style-position-inside">
+                                    <li>Python</li>
+                                    <li>R</li>
+                                    <li>PowerBI</li>
+                                    <li>Tableau</li>
+                                    <li>SQL</li>
+                                    <li>MySQL</li>
+                                    <li>SAS</li>
                                     <li>HTML5</li>
                                     <li>CSS & SCSS</li>
                                     <li>JavaScript</li>
-                                    <li>REST API</li>
-                                    <li>SQL</li>
-                                    <li>MySQL</li>
                                     <li>AWS</li>
                                     <li>Node.js</li>
                                     <li>JQuery</li>
                                     <li>PHP</li>                        
-                                    <li>MongoDB</li>
                                     <li>Github</li>
                                     <li>Bootstrap</li>
+                                    <li>Looker Studio</li>
                                 </ul>
                             </div>
                         </div>
@@ -47,7 +64,7 @@ const About = () => {
                         <div className="card-body">
                             <h2 className="card-title">About Me</h2>
                             <p className="card-text px-3">
-                                Hello! I'm Holly, an experienced Web Developer that uses Agile methodologies in my everyday work to ensure the successful delivery of projects.  In addition to my web development skills I also have experience in web support, search engine optimization, and data analytics. I am passionate about expanding my knowledge and using cloud computing in personal projects.
+                                Hello! I'm Holly, an experienced Web Developer with over 4 years of web development and IT experience. I graduated Spring 2021 and obtained a Bachelor's degree in Information Technology. I first became interested in Data Analytics after creating dashboards for clients using Looker (formerly Google Data Studio). Ever since I have been working on improving not only my web development skills but data science/analytic skills aswell. I recently obtained my undergraduate Data Science certificate from The University of West Florida. Relevant courses that have helped me increase my knowledge of data science are Tools For Data Science, Data Warehousing, and Statistics For Data Science.  
                             </p>
                         </div>
                     </div>

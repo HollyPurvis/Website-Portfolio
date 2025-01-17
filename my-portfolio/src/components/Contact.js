@@ -1,5 +1,5 @@
 import React from 'react';
-import pdf from '../doc/HollyPurvis_Resume2023.pdf'
+import pdf from '../doc/HollyPurvis_Resume.pdf'
 
 const Contact = () => {
     return (

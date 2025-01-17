@@ -11,31 +11,25 @@ const Projects = () => {
         <div className="col-md-6 col-12 mx-auto m-2">
             <div className="card">
                 <div className="card-body ">
-                    <h2 className="card-title">Portfolio Website</h2>
-                    
-                    <div className="px-3">
-                        <a href="https://github.com/HollyPurvis/Website-Portfolio" className="external" target="_blank" rel="noreferrer">Github</a>
-                        <p>Skills: HTML, SCSS, Javascript, React, Node.Js, Bootstrap, and GitHub</p>
-                        <p>This React App is hosted on AWS S3. The custom domain is registered with AWS Route 53.</p>
-                    </div>
+                    <h2 className="card-title"> Titanic Statistic Simulator</h2>
+                    <p><a href="https://github.com/HollyPurvis/TitanicSimulator" className="external" target="_blank" rel="noreferrer">Github Link</a></p>
+                    <p>Skills: Python, Pandas, and Matplotlib</p>
+                    <p>This program uses a Titanic dataset to predict the likelihood of survival based on user input. You can either input personal characteristics (age, sex, and class) to estimate your chance of survival or choose to view a generated graph showing the survival distribution based on these attributes.
+                    </p>
                 </div>
             </div>
-        </div>
+        </div>  
         <div className="col-md-6 col-12 mx-auto m-2">
             <div className="card">
                 <div className="card-body ">
-                    <h2 className="card-title">Travel Checklist</h2>
-
-                    <p><a href="https://github.com/HollyPurvis/travel-checklist" className="external" target="_blank" rel="noreferrer">Github</a> | <a href="https://hollypurvis.github.io/travel-checklist/"  className="external" target="_blank" rel="noreferrer">https://hollypurvis.github.io/travel-checklist/</a></p>
-
-                    
-                    <p>Skills: HTML, CSS, JavaScript, Bootstrap, GitHub, and REST API</p>
-                    <p>Having trouble keeping track of everything you need for vacation? Use this Travel Checklist to help keep track of 
-                    everything you may need! Users can also learn more about the country they are visiting.</p>
+                    <h2 className="card-title"> 2000s Top 10 Charting Songs</h2>
+                    <p><a href="https://github.com/HollyPurvis/2000-Billboard-Top-100" className="external" target="_blank" rel="noreferrer">Github Link</a></p>
+                    <p>Skills: R, tidyverse packages (including tidyr, dplyr, glue, and stringr)</p>
+                    <p>This R program extracts data from the billboards package and allows users to select an artist whose songs have appeared in the top 10 of the Billboard Hot 100. The program then generates a graph to visualize the ranking of the selected artist's songs, using packages from tidyverse (including tidyr, dplyr, glue, and stringr).
+                    </p>
                 </div>
             </div>
-        </div>
-
+        </div>              
     </div>
            
         </div>
