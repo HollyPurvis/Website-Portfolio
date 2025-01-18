@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HollyPurvis/Website-Portfolio/static/css/main.c1d5f98e.css",
+    "main.js": "/HollyPurvis/Website-Portfolio/static/js/main.73a81856.js",
+    "static/js/787.2dcca737.chunk.js": "/HollyPurvis/Website-Portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/HollyPurvis_Resume.pdf": "/HollyPurvis/Website-Portfolio/static/media/HollyPurvis_Resume.4d06bf0b30ce6e001893.pdf",
+    "index.html": "/HollyPurvis/Website-Portfolio/index.html",
+    "main.c1d5f98e.css.map": "/HollyPurvis/Website-Portfolio/static/css/main.c1d5f98e.css.map",
+    "main.73a81856.js.map": "/HollyPurvis/Website-Portfolio/static/js/main.73a81856.js.map",
+    "787.2dcca737.chunk.js.map": "/HollyPurvis/Website-Portfolio/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1d5f98e.css",
+    "static/js/main.73a81856.js"
+  ]
+}
